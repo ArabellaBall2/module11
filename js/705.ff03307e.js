@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmodule11"]=self["webpackChunkmodule11"]||[]).push([[705],{705:function(n,t,c){c.r(t),c.d(t,{default:function(){return i}});var e=c(6768);const o={class:"container"};function u(n,t,c,u,s,a){const r=(0,e.g2)("GoBack");return(0,e.uX)(),(0,e.CE)("div",o,[t[0]||(t[0]=(0,e.Lk)("h1",null,"Contact Us",-1)),t[1]||(t[1]=(0,e.Lk)("p",null,"This is the contact page.",-1)),(0,e.bF)(r)])}var s=c(2997),a={components:{GoBack:s.A}},r=c(1241);const l=(0,r.A)(a,[["render",u]]);var i=l}}]);
+//# sourceMappingURL=705.ff03307e.js.map
